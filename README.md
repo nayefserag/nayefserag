@@ -1,4 +1,3 @@
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 <p align="center">
 <a href="https://imgur.com/ncl1fzX"><img src="https://i.imgur.com/ncl1fzX.gif" title="source: imgur.com" /></a>
 
