@@ -2,20 +2,20 @@
 <a href="https://imgur.com/zspy2EP"><img src="https://i.imgur.com/zspy2EP.gif" title="source: imgur.com" /></a>
 
 
+## About me
+
+Hey there 👋, I'm Nayf Serag, a seasoned software engineer from Cairo, Egypt. With a Bachelor's in Statistics and Computer Science, I specialize in crafting dynamic web applications. Fluent in JavaScript, TypeScript, and Python, I leverage Django, Node.js, and more to build solutions that speak. My commitment extends to sharing knowledge and engaging with the tech community. Whether it's developing apps or exploring new tech frontiers, I'm always on a quest for innovation.
+
 
 
 <div style="text-align: center;">
     <p>Whatever I do, I do with perfection. I take work ethics very seriously, love to help people achieve their goals, and consistently strive to innovate to improve the lives of others.</p>
-    <p>However, I am eager to learn and grow, embracing challenges with enthusiasm and Turning challenges into opportunities</p>
+    <p>However, I am eager to learn and grow, embracing challenges with enthusiasm and Turning them into opportunities</p>
 </div>
 
 
 <br><br>
-  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
- · 
-<br>
-<a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
-| <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
+## Get in touch :coffee:
 <br>
  <p align="center">
    <a href="mailto:nayfserag5@gmail.com"><img src="https://img.shields.io/badge/Nayf-Serag-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,9 +29,7 @@
 
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
-</p>
+
 
 </p>
 
