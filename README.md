@@ -17,10 +17,11 @@ Hey there 👋, I'm Nayf Serag, a seasoned software engineer from Cairo, Egypt. 
 <br><br>
 ## Get in touch :coffee:
 <br>
+
  <p align="center">
    <a href="mailto:nayfserag5@gmail.com"><img src="https://img.shields.io/badge/Nayf-Serag-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/nayf-serag-70a3611b8/"><img src="https://img.shields.io/badge/-Nayf%20Serag-1e90ff?style=style=for-the-badge&logo=Linkedin&link=hhttps://www.linkedin.com/in/nayf-serag-70a3611b8/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="LINK_TO_YOUR_GOOGLE_DRIVE_RESUME" target="_blank"><img src="https://img.shields.io/badge/View%20Resume-Google%20Drive-blue?style=flat-square&logo=google-drive" alt="View Resume"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://drive.google.com/file/d/1vAT-SFa0-PS5Cl7Mksybgazhejx-gqBz/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View%20Resume-Google%20Drive-blue?style=flat-square&logo=google-drive" alt="View Resume"></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://codeforces.com/profile/Nayf"><img src="https://img.shields.io/badge/Nayf-Serag-1e90ff?style=for-the-badge&logo=codeforces" alt="Nayf Serag"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
