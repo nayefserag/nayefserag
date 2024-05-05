@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://imgur.com/zspy2EP"><img src="https://i.imgur.com/zspy2EP.gif" title="source: imgur.com" /></a>
+<!-- <a href="https://imgur.com/zspy2EP"><img src="https://i.imgur.com/zspy2EP.gif" title="source: imgur.com" /></a> -->
 
 
 ## About me
