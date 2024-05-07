@@ -31,7 +31,7 @@ const Nayf = {
                     ],
   architecture: ["REST APIs" , "MVC"],
   hobbies: ["Problem Solving", "Gardening", "Gaming", "Reading"],
-  challenge: "Striving to gain extensive knowledge efficiently: Learn more in less time."
+  challenge: "Efficiently gain extensive knowledge: Learn more, faster."
 };
 
 ```
