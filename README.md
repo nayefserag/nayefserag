@@ -1,6 +1,6 @@
 <h1> Hi, I'm Nayf Serag! <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdzMDl5dTkwbWJ5NzJsaXB3emFzaWg0d3JwZ21wc2pkb2RkYzM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1k4lsJ5bspNv7wtDrv/giphy.gif" width="70"></h1>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN6OG1iYTc2MmdtZGw0ejdvOTRqbzBiNmpsZDR2OXFnOWxhZGkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300">
-<p><em>Software Enginner at <a href="https://www.linkedin.com/company/almatarapp/">Al Matar</a><img align='center'src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5bGgxMXFpamp0Z2pnenN2YjM5YWQ1MTlkdTRoYjdmY3Y2OTc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PiuVH04cd9JcmqqWKK/giphy.gif" width="40"></br>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN6OG1iYTc2MmdtZGw0ejdvOTRqbzBiNmpsZDR2OXFnOWxhZGkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="280">
+<p><em>Software Enginner at <a href="https://www.linkedin.com/company/almatarapp/">Al Matar</a><img align='center'src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5bGgxMXFpamp0Z2pnenN2YjM5YWQ1MTlkdTRoYjdmY3Y2OTc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"></br>
 <!--     Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
