@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
     <a href="mailto:nayfserag5@gmail.com" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/Nayf-Serag-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
     <a href="https://www.linkedin.com/in/nayf-serag-70a3611b8/" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/-Nayf%20Serag-1e90ff?style=style=for-the-badge&logo=Linkedin&link=hhttps://www.linkedin.com/in/nayf-serag-70a3611b8/" /></a>
-    <a href="https://drive.google.com/file/d/1vAT-SFa0-PS5Cl7Mksybgazhejx-gqBz/view?usp=sharing" target="_blank" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/View%20Resume-Google%20Drive-blue?style=flat-square&logo=google-drive" alt="View Resume"></a>
+    <a href="https://docs.google.com/document/d/17tOZblDBwmxfo0jN4Fkqig_g1HlyfgNGS8Ste-4rNYA/edit?usp=sharing" target="_blank" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/View%20Resume-Google%20Drive-blue?style=flat-square&logo=google-drive" alt="View Resume"></a>
     <a href="https://codeforces.com/profile/Nayf" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/Nayf-Serag-1e90ff?style=for-the-badge&logo=codeforces" alt="Nayf Serag"></
 
 </div>
