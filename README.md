@@ -22,15 +22,15 @@ const Nayf = {
   pronouns: "he" | "him",
   code: [
              ["JavaScript", "TypeScript", "PHP", "Python"],
-             ["Django", "Node.js", "Express", "Nest.js" ,"Lumen"],
+             ["Django", "Node.js", "Express", "Nest.js","Lumen"],
              ["React", "Angular"]
         ],
   tools_&_databases: [
-             ["MySQL", "MongoDB", "Swagger", "Postman" , "Jest"],
+             ["MySQL", "MongoDB", "Swagger", "Postman", "Jest"],
              ["Argo CD", "Grafana" , "Git", "Docker", "Kubernetes"]
                     ],
-  architecture: ["REST APIs" , "MVC"],
-  hobbies: ["Problem Solving", "Gardening", "Gaming", "Reading"],
+  architecture: ["REST APIs", "MVC" , "Microservices"],
+  hobbies: ["Problem-Solving", "Gardening", "Gaming", "Reading"],
   challenge: "Efficiently gain extensive knowledge: Learn more, faster."
 };
 
