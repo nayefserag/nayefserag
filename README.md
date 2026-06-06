@@ -60,22 +60,30 @@ const Nayf: BackendEngineer = {
 
 **Languages & Runtime**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" title="Node.js" alt="Node.js"/>
 </p>
 
 **Backend Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" title="NestJS" alt="NestJS"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" title="Express" alt="Express"/>
 </p>
 
 **APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=graphql,apollo" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" title="GraphQL" alt="GraphQL"/>
+  <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" title="Apollo GraphQL" alt="Apollo"/>
 </p>
 
 **Databases & ORM**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" title="MySQL" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" title="MongoDB" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" title="Redis" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" title="Prisma" alt="Prisma"/>
 </p>
 
 </td>
@@ -85,24 +93,33 @@ const Nayf: BackendEngineer = {
 
 **Messaging & Streams**
 <p>
-  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
-  <img src="https://cdn.simpleicons.org/mqtt/660066" height="48" width="48" alt="MQTT"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" title="RabbitMQ" alt="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" title="Apache Kafka" alt="Kafka"/>
+  <img src="https://cdn.simpleicons.org/mqtt/660066" width="48" height="48" title="MQTT" alt="MQTT"/>
 </p>
 
 **Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" title="Kubernetes" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" title="AWS" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" title="Cloudflare" alt="Cloudflare"/>
 </p>
 
 **CI/CD**
 <p>
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" width="48" alt="ArgoCD"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" title="GitLab CI" alt="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" title="Jenkins" alt="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" title="GitHub Actions" alt="GitHub Actions"/>
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48" title="Argo CD" alt="ArgoCD"/>
 </p>
 
 **Monitoring & Test**
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry,jest" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" title="Grafana" alt="Grafana"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" title="Prometheus" alt="Prometheus"/>
+  <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" title="Sentry" alt="Sentry"/>
+  <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" title="Jest" alt="Jest"/>
 </p>
 
 </td>
