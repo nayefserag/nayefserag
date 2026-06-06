@@ -346,3 +346,5 @@ Worked with multiple clients on web platforms — backend services, bug fixes, p
 <!-- ═══════════════════════════════ WAVE FOOTER ═══════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
+
+<!-- collab -->
