@@ -100,8 +100,8 @@ const Nayf: BackendEngineer = {
 
 **CI/CD**
 <p>
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" width="48" alt="ArgoCD"/>
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" height="40" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" width="40" alt="ArgoCD" style="vertical-align:middle"/>
 </p>
 
 **Monitoring & Test**
