@@ -162,6 +162,73 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 <br/>
 
+<!-- ═══════════════════════════════ PRODUCTION EXPERIENCE ═══════════════════════════════ -->
+
+## <picture><img src="https://media.giphy.com/media/jpVnC65DmYeyR0WL36/giphy.gif" width="28"></picture> &nbsp; Production Experience
+
+<table>
+<tr>
+<td valign="top">
+
+### 🚗 [FleetOo](https://fleetoo.com) &nbsp;·&nbsp; <sub>Mid–Senior Software Engineer · Remote 🇸🇦 · Jul 2025 – Present</sub>
+
+Multi-tenant **Fleet Management SaaS** for the Saudi market — vehicles, drivers, devices, trips, maintenance, rental, billing.
+
+- 🏛️ Led **Saudi e-government integrations** — ZATCA (e-invoicing), Tamm, Elm, Tajeer
+- ⚡ Built **Cloudflare Workers** (Hono + Kysely) for IoT telemetry, geofencing, scheduled jobs — using Durable Objects, KV, and Queues
+- 🔄 Migrated background-job platform from **BullMQ → RabbitMQ**, added real-time updates via **Redis Pub/Sub**
+- 📤 Designed a fault-tolerant **document-upload pipeline** with Sharp image optimization on **Cloudflare R2**
+- 🧩 Built a reusable **dynamic filtering & sorting engine** adopted across every module
+- 📊 Hardened observability with **Sentry + Pino** on an **Nx monorepo** with automated CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nx-143055?style=flat&logo=nx&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### ✈️ [Almatar](https://almatar.com) &nbsp;·&nbsp; <sub>Software Engineer · Remote 🇸🇦 · Mar 2024 – Jul 2025</sub>
+
+Travel-tech platform serving the Saudi market — flights, hotels, ground transport, B2B corporate booking.
+
+- 🏆 **Top Performer Q2 2025** (86% rating) · **2nd of 18 teams** — Al Matar Hackathon (Oct 2024)
+- 📈 Designed the **Car Transfer** booking workflow — drove ~10% sales lift
+- 🧱 Engineered **scalable microservices** for the Transport Management (TMS) team
+- 🧠 Built a **route-aware vehicle-search algorithm** and a supplier-management portal
+- 🔄 Integrated **Salesforce CRM** with enterprise systems for real-time sync
+- 🛫 Contributed to **Aamal**, a B2B corporate flight & hotel booking platform
+
+<p>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp; Let's connect
