@@ -164,7 +164,7 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 <!-- ═══════════════════════════════ PRODUCTION EXPERIENCE ═══════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/jpVnC65DmYeyR0WL36/giphy.gif" width="28"></picture> &nbsp; Production Experience
+## 💼 &nbsp; Production Experience
 
 <table>
 <tr>
