@@ -71,14 +71,9 @@ const Nayf: BackendEngineer = {
   <img src="https://skillicons.dev/icons?i=graphql,apollo" />
 </p>
 
-**Databases & Cache**
+**Databases & ORM**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-**ORM**
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" />
 </p>
 
 </td>
