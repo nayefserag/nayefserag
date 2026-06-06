@@ -162,18 +162,6 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 <br/>
 
-<!-- ═══════════════════════════════ TOP LANGUAGES ═══════════════════════════════ -->
-
-## <picture><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"></picture> &nbsp; Most-used Languages
-
-<p align="center">
-  <a href="https://github.com/nayefserag">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayefserag&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=ejs,scss,html,dockerfile,css" alt="Top Languages"/>
-  </a>
-</p>
-
-<br/>
-
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp; Let's connect
