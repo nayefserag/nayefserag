@@ -1,12 +1,8 @@
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          ANIMATED HEADER                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ ANIMATED HEADER ═══════════════════════════════ -->
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nayf%20Serag&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Software%20Engineer&descAlignY=62&descSize=20" alt="header"/></a>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        TYPING TAGLINE                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ TYPING TAGLINE ═══════════════════════════════ -->
 
 <p align="center">
   <a href="https://github.com/nayefserag">
@@ -14,9 +10,7 @@
   </a>
 </p>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         BADGES ROW                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ CONTACT BADGES ═══════════════════════════════ -->
 
 <p align="center">
   <a href="mailto:nayfserag@outlook.com">
@@ -33,9 +27,7 @@
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            ABOUT                                  ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></picture> &nbsp; About me
 
@@ -56,9 +48,7 @@ const Nayf: BackendEngineer = {
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          TECH STACK                               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
@@ -89,24 +79,21 @@ const Nayf: BackendEngineer = {
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-**ORMs**
+**ORM**
 <p>
   <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://img.shields.io/badge/Kysely-1F2937?style=flat&logo=postgresql&logoColor=4FC3F7" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat" />
 </p>
 
 **Messaging & Streams**
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
-  <img src="https://img.shields.io/badge/BullMQ-DD0031?style=flat" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/mqtt/660066" height="48" width="48" alt="MQTT"/>
 </p>
 
 </td>
 <td valign="top" width="33%">
 
-**Cloud & DevOps**
+**Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare" />
 </p>
@@ -114,10 +101,10 @@ const Nayf: BackendEngineer = {
 **CI/CD**
 <p>
   <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" width="48" alt="ArgoCD"/>
 </p>
 
-**Observability & Test**
+**Monitoring & Test**
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry,jest" />
 </p>
@@ -126,11 +113,11 @@ const Nayf: BackendEngineer = {
 </tr>
 </table>
 
-<br/>
+<sub><b>Also fluent in:</b> Cloudflare Workers (Durable Objects · KV · Queues · Hyperdrive) · Kysely · TypeORM · BullMQ · Redis Pub/Sub · Hono · Zod · DataLoader · Pino · Nx · OAuth (Google) · JWT · RBAC</sub>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       FEATURED PROJECTS                           ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<br/><br/>
+
+<!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp; Featured Projects
 
@@ -175,50 +162,19 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          GITHUB STATS                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ TOP LANGUAGES ═══════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"></picture> &nbsp; GitHub Stats
+## <picture><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"></picture> &nbsp; Most-used Languages
 
 <p align="center">
   <a href="https://github.com/nayefserag">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nayefserag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/nayefserag">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nayefserag&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nayefserag">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayefserag&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=ejs,scss,html,dockerfile" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nayefserag">
-    <img src="https://github-profile-trophy.vercel.app/?username=nayefserag&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayefserag&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=ejs,scss,html,dockerfile,css" alt="Top Languages"/>
   </a>
 </p>
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       ACTIVITY GRAPH                              ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
-
-## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"></picture> &nbsp; Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayefserag&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity graph"/>
-</p>
-
-<br/>
-
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            CONNECT                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp; Let's connect
 
@@ -237,8 +193,6 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          WAVE FOOTER                              ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════ WAVE FOOTER ═══════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
