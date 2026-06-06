@@ -52,9 +52,7 @@ const Nayf: BackendEngineer = {
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
-<div align="center">
-
-<table width="100%" align="center">
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -112,8 +110,6 @@ const Nayf: BackendEngineer = {
 </tr>
 </table>
 
-</div>
-
 <sub><b>Also fluent in:</b> Cloudflare Workers (Durable Objects · KV · Queues · Hyperdrive) · Kysely · TypeORM · BullMQ · Redis Pub/Sub · Hono · Zod · DataLoader · Pino · Nx · OAuth (Google) · JWT · RBAC</sub>
 
 <br/><br/>
@@ -122,9 +118,7 @@ const Nayf: BackendEngineer = {
 
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp; Featured Projects
 
-<div align="center">
-
-<table width="100%" align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -163,17 +157,13 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════ PRODUCTION EXPERIENCE ═══════════════════════════════ -->
 
 ## 💼 &nbsp; Production Experience
 
-<div align="center">
-
-<table width="100%" align="center">
+<table width="100%">
 <tr>
 <td valign="top">
 
@@ -278,8 +268,6 @@ Worked with multiple clients on web platforms — backend services, bug fixes, p
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
