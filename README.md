@@ -1,42 +1,58 @@
-<h1> Hi, I'm Nayf Serag! <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdzMDl5dTkwbWJ5NzJsaXB3emFzaWg0d3JwZ21wc2pkb2RkYzM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1k4lsJ5bspNv7wtDrv/giphy.gif" width="70"></h1>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN6OG1iYTc2MmdtZGw0ejdvOTRqbzBiNmpsZDR2OXFnOWxhZGkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="280">
-<p><em>Software Enginner at <a href="https://www.linkedin.com/company/almatarapp/">Al Matar</a><img align='center'src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5bGgxMXFpamp0Z2pnenN2YjM5YWQ1MTlkdTRoYjdmY3Y2OTc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PiuVH04cd9JcmqqWKK/giphy.gif" width="50"></br>
-<!--     Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
+<h1 align="center">Hi, I'm Nayf Serag 👋</h1>
 
+<p align="center">
+  <b>Backend Software Engineer</b> &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; TypeScript<br/>
+  I build scalable APIs, microservices, and event-driven systems.
+</p>
 
-
-<div style="display: flex; justify-content: space-between;">
-    <a href="mailto:nayfserag5@gmail.com" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/Nayf-Serag-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/nayf-serag-70a3611b8/" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/-Nayf%20Serag-1e90ff?style=style=for-the-badge&logo=Linkedin&link=hhttps://www.linkedin.com/in/nayf-serag-70a3611b8/" /></a>
-    <a href="https://drive.google.com/file/d/1yH4UuhrNyDhU_9rqQDPqMWZDpiKKGYr7/view?usp=sharing" target="_blank" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/View%20Resume-Google%20Drive-blue?style=flat-square&logo=google-drive" alt="View Resume"></a>
-    <a href="https://codeforces.com/profile/Nayf" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/Nayf-Serag-1e90ff?style=for-the-badge&logo=codeforces" alt="Nayf Serag"></
-
-</div>
-
-
-### <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE5cTJ3dDVlZ2NyYmg1MTk0b3AyaDZrNmoyaXIwZ29iMjl5MW1qaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const Nayf = {
-  pronouns: "he" | "him",
-  code: [
-             ["JavaScript", "TypeScript", "PHP", "Python"],
-             ["Django", "Node.js", "Express", "Nest.js","Lumen"],
-             ["React", "Angular"]
-        ],
-  tools_&_databases: [
-             ["MySQL", "MongoDB", "Swagger", "Postman", "Jest"],
-             ["Argo CD", "Grafana" , "Git", "Docker", "Kubernetes"]
-                    ],
-  architecture: ["REST APIs", "MVC" , "Microservices"],
-  hobbies: ["Problem-Solving", "Gardening", "Gaming", "Reading"],
-  challenge: "Efficiently gain extensive knowledge: Learn more, faster."
-};
-
-```
-
-
-<img align='center' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+  <a href="https://linkedin.com/in/nayf-serag-70a3611b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://bold.pro/my/nayf-serag-240522202109"><img src="https://img.shields.io/badge/Portfolio-2E5496?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:nayfserag@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=maildotru&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
+
+### 🚀 About me
+
+Backend engineer with **3+ years** building production-grade APIs and microservices in **Node.js, NestJS, and TypeScript**. I care about clean architecture, high-performance data layers, event-driven design, and shipping reliable systems with proper testing and observability.
+
+- 🧩 **Microservices & distributed systems** — REST/GraphQL, message queues, real-time
+- ☁️ **Edge & serverless** — Cloudflare Workers (Durable Objects, KV, Queues)
+- 🇸🇦 **Saudi market integrations** — ZATCA e-invoicing & government APIs
+- 🧪 Strong on **testing, observability, and performance tuning**
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,graphql,postgres,mysql,mongodb,redis,rabbitmq,docker,kubernetes,aws,cloudflare,git,jest&perline=8" />
+</p>
+
+**Backend:** NestJS · Node.js · Express · GraphQL (Apollo) · REST
+**Data:** PostgreSQL · MySQL · MongoDB · Redis · Prisma · TypeORM · Kysely
+**Messaging & Realtime:** RabbitMQ · Kafka · BullMQ · MQTT · Redis Pub/Sub
+**Cloud & DevOps:** Docker · Kubernetes · AWS · Cloudflare Workers · GitLab CI · Jenkins · ArgoCD · Nx
+**Observability & Testing:** Sentry · Grafana · Prometheus · Pino · Jest · Supertest
+
+### 📌 Featured Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**Grocery**](https://github.com/nayefserag/Grocery) | Microservice for grocery items, lists & orders with event-driven inter-service messaging | NestJS · MySQL · MongoDB · RabbitMQ · JWT |
+| [**AuthBridge**](https://github.com/nayefserag/AuthBridge) | Multi-tenant auth service — email/OTP, Google OAuth, JWT, Swagger | NestJS · MongoDB · OAuth |
+| [**NestWave**](https://github.com/nayefserag/NestWave) | Interest-based social backend with real-time notifications | NestJS · MongoDB · Firebase · JWT |
+| [**CircleSync**](https://github.com/nayefserag/CircleSync-With-Microservice) | Microservices social platform with Redis Pub/Sub & push notifications | Node.js · Express · MongoDB · Docker |
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nayefserag&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayefserag&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<!--
+HOW TO PUBLISH THIS:
+1. Create a new PUBLIC repo named exactly "nayefserag" (same as your username).
+2. Add this file as README.md at the repo root.
+3. Commit & push — GitHub auto-renders it at the top of github.com/nayefserag
+-->
