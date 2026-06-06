@@ -52,7 +52,7 @@ const Nayf: BackendEngineer = {
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
-<table width="100%">
+<table width="100%" style="width:100%;display:table">
 <tr>
 <td valign="top" width="50%">
 
@@ -113,7 +113,7 @@ const Nayf: BackendEngineer = {
 
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp; Featured Projects
 
-<table width="100%">
+<table width="100%" style="width:100%;display:table">
 <tr>
 <td width="50%" valign="top">
 
@@ -158,7 +158,7 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 
 ## 💼 &nbsp; Production Experience
 
-<table width="100%">
+<table width="100%" style="width:100%;display:table">
 <tr>
 <td valign="top">
 
