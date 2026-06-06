@@ -225,6 +225,51 @@ Travel-tech platform serving the Saudi market — flights, hotels, ground transp
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+### 🌾 Mahaseel Masr &nbsp;·&nbsp; <sub>Backend Engineer · Hybrid · Maadi 🇪🇬 · Oct 2023 – Mar 2024</sub>
+
+Agri-tech company building tools for Egyptian farming communities.
+
+- 🤖 Engineered backend systems for **Qamhawy App** — an AI-driven platform for farming communities
+- 🌦️ Designed a **predictive weather-alert module** that helped farmers reduce risk and improve productivity
+- 📈 Built **reporting features** that streamlined agricultural engineers' workflows
+- 🔄 Optimized backend infrastructure for uninterrupted **cross-platform operation** with mobile teams
+
+<p>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 💻 Freelance &nbsp;·&nbsp; <sub>Software Engineer | Web Developer · Remote 🌐 · Apr 2023 – Nov 2023</sub>
+
+Worked with multiple clients on web platforms — backend services, bug fixes, performance improvements, and feature delivery.
+
+- 🐛 Delivered **bug fixes, feature upgrades, and performance improvements** across multiple client platforms
+- 🛠️ Built **tailored solutions for diverse client needs**, strengthening system-evaluation and problem-solving skills
+- 🚀 Refined **end-to-end delivery** — requirements → design → ship → iterate
+
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
