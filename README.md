@@ -56,6 +56,8 @@ const Nayf: BackendEngineer = {
 <tr>
 <td valign="top" width="50%">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="500" height="1" alt=""/>
+
 **Languages & Runtime**
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs" />
@@ -78,6 +80,8 @@ const Nayf: BackendEngineer = {
 
 </td>
 <td valign="top" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="500" height="1" alt=""/>
 
 **Messaging & Streams**
 <p>
@@ -117,6 +121,8 @@ const Nayf: BackendEngineer = {
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="500" height="1" alt=""/>
+
 #### 🛒 [Grocery](https://github.com/nayefserag/Grocery)
 NestJS microservice managing grocery items, lists, and orders. Coordinates with Auth & Notification services via **RabbitMQ + HTTP**.
 
@@ -124,6 +130,8 @@ NestJS microservice managing grocery items, lists, and orders. Coordinates with 
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="500" height="1" alt=""/>
 
 #### 🔐 [AuthBridge](https://github.com/nayefserag/AuthBridge)
 Multi-tenant authentication service — email/OTP, Google OAuth, JWT, with **dynamic per-app database** routing.
@@ -161,6 +169,8 @@ Microservices social platform with **Redis Pub/Sub** for report generation and F
 <table width="100%" style="width:100%;display:table">
 <tr>
 <td valign="top">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="1000" height="1" alt=""/>
 
 ### 🚗 [FleetOo](https://fleetoo.com) &nbsp;·&nbsp; <sub>Mid–Senior Software Engineer · Remote 🇸🇦 · Jul 2025 – Present</sub>
 
