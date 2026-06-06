@@ -25,6 +25,18 @@
   <img src="https://komarev.com/ghpvc/?username=nayefserag&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <a href="mailto:nayfserag@outlook.com">
+    <img src="https://img.shields.io/badge/💼%20Available%20for%20Hire-2EA44F?style=for-the-badge&labelColor=2EA44F" alt="Available for Hire"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-3%2B%20Years%20Backend-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="3+ Years"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Remote%20%2F%20Saudi%20Arabia-0EA5E9?style=for-the-badge&logo=googleearth&logoColor=white" alt="Remote / Saudi Arabia"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Replies%20%E2%89%A4%2024h-FFB020?style=for-the-badge&logo=protonmail&logoColor=white" alt="Replies within 24h"/>
+</p>
+
 <br/>
 
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
