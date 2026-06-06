@@ -22,6 +22,9 @@
   <a href="https://bold.pro/my/nayf-serag-240522202109">
     <img src="https://img.shields.io/badge/Portfolio-2E5496?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://bold.pro/my/nayf-serag-240522202109">
+    <img src="https://img.shields.io/badge/📄%20Resume-DC382D?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=nayefserag&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -35,6 +38,22 @@
   <img src="https://img.shields.io/badge/-Remote%20%2F%20Saudi%20Arabia-0EA5E9?style=for-the-badge&logo=googleearth&logoColor=white" alt="Remote / Saudi Arabia"/>
   &nbsp;
   <img src="https://img.shields.io/badge/-Replies%20%E2%89%A4%2024h-FFB020?style=for-the-badge&logo=protonmail&logoColor=white" alt="Replies within 24h"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇪🇬%20Arabic-Native-2EA44F?style=flat-square&labelColor=1F2937" alt="Arabic - Native"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-58A6FF?style=flat-square&labelColor=1F2937" alt="English - Fluent"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Backend-1F2937?style=flat-square&logo=server&logoColor=58A6FF" alt="Backend"/>
+  <img src="https://img.shields.io/badge/-NestJS-1F2937?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/-TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Microservices-1F2937?style=flat-square&logo=apacheairflow&logoColor=58A6FF" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/-Distributed%20Systems-1F2937?style=flat-square&logo=cncf&logoColor=ffffff" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/-Saudi%20Gov%20Integrations-1F2937?style=flat-square&logo=saudiarabia&logoColor=2EA44F" alt="Saudi Gov Integrations"/>
 </p>
 
 <br/>
