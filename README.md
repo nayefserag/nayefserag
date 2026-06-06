@@ -52,9 +52,9 @@ const Nayf: BackendEngineer = {
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
-<table width="100%">
+<table width="100%" cellpadding="14">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 **Languages & Runtime**
 <p>
@@ -71,9 +71,6 @@ const Nayf: BackendEngineer = {
   <img src="https://skillicons.dev/icons?i=graphql,apollo" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
 **Databases & Cache**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
@@ -84,14 +81,14 @@ const Nayf: BackendEngineer = {
   <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 **Messaging & Streams**
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
   <img src="https://cdn.simpleicons.org/mqtt/660066" height="48" width="48" alt="MQTT"/>
 </p>
-
-</td>
-<td valign="top" width="33%">
 
 **Cloud**
 <p>
@@ -100,8 +97,8 @@ const Nayf: BackendEngineer = {
 
 **CI/CD**
 <p>
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" height="40" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" width="40" alt="ArgoCD" style="vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" width="48" alt="ArgoCD"/>
 </p>
 
 **Monitoring & Test**
